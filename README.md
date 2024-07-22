@@ -43,12 +43,15 @@ Now,
 
 ```bash
 open up localhost:
+
 ```
 
-## Sample
 
-![Table](https://github.com/codeakki/ImageExtractor-Gemini-1.5/blob/main/image.png)
-![OpenAI Logo](https://github.com/codeakki/ImageExtractor-Gemini-1.5/blob/main/image2.png)
+##Currently Sample table 
+![Table](https://github.com/codeakki/TextToSQLUsingGENAI/blob/main/image2.png)
+
+## Sample
+![OpenAI Logo](https://github.com/codeakki/TextToSQLUsingGENAI/blob/main/image.png)
 
 ## HuggingFace
 
