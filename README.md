@@ -47,7 +47,7 @@ open up localhost:
 ```
 
 
-##Currently Sample table 
+## Currently Sample table 
 ![Table](https://github.com/codeakki/TextToSQLUsingGENAI/blob/main/table.png)
 
 ## Sample
