@@ -48,10 +48,12 @@ open up localhost:
 
 
 ##Currently Sample table 
-![Table](https://github.com/codeakki/TextToSQLUsingGENAI/blob/main/image2.png)
+![Table](https://github.com/codeakki/TextToSQLUsingGENAI/blob/main/table.png)
 
 ## Sample
 ![OpenAI Logo](https://github.com/codeakki/TextToSQLUsingGENAI/blob/main/image.png)
+
+![Table](https://github.com/codeakki/TextToSQLUsingGENAI/blob/main/image2.png)
 
 ## HuggingFace
 
